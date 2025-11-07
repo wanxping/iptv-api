@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-05 18:40:52,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
+2025-11-07 18:38:24,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
@@ -19,11 +21,10 @@ CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
-CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
-CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100$订阅源
